@@ -1,0 +1,55 @@
+{
+  "name": "Sawa",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^1.0.0",
+    "axios": "^0.18.0",
+    "moment": "^2.23.0",
+    "native-base": "^2.8.1",
+    "react": "16.6.1",
+    "react-native": "0.57.5",
+    "react-native-check-box": "^2.1.7",
+    "react-native-date-picker": "^2.2.1",
+    "react-native-device-info": "^0.24.3",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-firebase": "^5.1.1",
+    "react-native-flip-page": "^0.4.0",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-native-gifted-chat": "^0.5.0",
+    "react-native-image-picker": "^0.27.2",
+    "react-native-linear-gradient": "^2.4.4",
+    "react-native-maps": "^0.22.1",
+    "react-native-material-buttons": "^0.5.0",
+    "react-native-material-dialog": "^0.7.4",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal": "^7.0.0",
+    "react-native-pagination": "^1.5.5",
+    "react-native-picker-select": "^5.2.1",
+    "react-native-progress-circle": "^2.0.1",
+    "react-native-radio-buttons-group": "^1.0.7",
+    "react-native-smooth-pincode-input": "^1.0.2",
+    "react-native-splash-screen": "^3.1.1",
+    "react-native-swiper": "^1.5.13",
+    "react-native-swiper-flatlist": "^1.0.8",
+    "react-native-switch-toggle": "^1.0.7",
+    "react-native-text-gradient": "^0.0.16",
+    "react-native-vector-icons": "^6.0.2",
+    "react-native-vertical-view-pager": "^0.1.1",
+    "react-native-wheel-picker-android": "^1.1.4",
+    "react-navigation": "^3.0.9"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.49.2",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

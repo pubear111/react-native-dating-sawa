@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880432613828",
+    "firebase_url": "https://sawa-92170.firebaseio.com",
+    "project_id": "sawa-92170",
+    "storage_bucket": "sawa-92170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880432613828:android:57c5a54119c893e2",
+        "android_client_info": {
+          "package_name": "com.sawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880432613828-24n866hlmcon5nmiebj950q5ht3g9cme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVhKKJhzhXm0Q9e_ts7FXRa9TiNfsrtIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
